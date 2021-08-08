@@ -1,0 +1,6 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+data/ # might not want to include the data folder to the online repository. 
+.xls 
